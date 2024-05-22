@@ -1,4 +1,2 @@
-# Observation Status
-
-Observation is experiencing technical problems.
-  Last Updated: 8:50 PM, Wed May 22 2024.
+<h1><a href="https://placidityisepic.github.io/Observation-Status/index.html">Observation Status</a></h1>
+Observation can be down sometimes. This repository will be used if you want to see Observation's current status. Click on the text above to see the status!
